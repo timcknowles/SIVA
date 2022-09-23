@@ -52,74 +52,58 @@
 
     <main role="main">
 
-      <section class="jumbotron text-center">
-        <div class="container">
-          <h1 class="jumbotron-heading">SIVA Infographic Competetion</h1>
-          <p class="lead text-muted">A chance to win the
-            2022 SIVA ASM infographic
-            competition</p>
-          <p>
-            <a href="#" class="btn btn-primary my-2">more information</a>
-            <a href="#" class="btn btn-secondary my-2">submit infographic</a>
-          </p>
-        </div>
-      </section>
-
-      <div class="album py-5 bg-light">
         <div class="container">
 
-          <div class="row">
-            
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-                <img class="card-img-top" src="./docs/assets/images/SIVA%20infographic%20template%20and%20style%20guide%20(landscape)%201200%20by%20900.jpg" alt="Card image cap">
-                <div class="card-body">
-                  <p class="card-text">Infographic Style Guide.</p>
-                  <p class="card-text">Author Tim Knowles @icudocTK</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                    </div>
-                    <small class="text-muted">9 mins</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-                <img class="card-img-top" src="./docs/assets/images/alfentanil.jpg" alt="Card image cap">
-                <div class="card-body">
-                  <p class="card-text">Alfentanil Infographic</p>
-                  <p class="card-text">Author Tim Knowles @icudocTK</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                    </div>
-                    <small class="text-muted">9 mins</small>
-                  </div>
-                </div>
-              </div>
-            </div>
+          #SIVA Infographic Competition Info
 
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-                <img class="card-img-top" src="./docs/assets/images/eleveld.jpg" alt="Card image cap">
-                <div class="card-body">
-                    <p class="card-text">Eleveld Infographic</p>
-                    <p class="card-text">Author Remco</p>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <div class="btn-group">
-                      <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
-                      <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
-                    </div>
-                    <small class="text-muted">9 mins</small>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
+          Download the ppt template
+                           
+                        click to download
+          
+          Submit (upload to google form - requires a google account)
+          
+                                 click to submit
+                               
+          
+          What is an infographic?
+          
+          Infographics are graphic visual representations of information, data, or knowledge intended to present information quickly and clearly.They can improve cognition by utilising graphics to enhance the human visual system's ability to see patterns and trends (Wikipedia).
+          
+          Examples below:
+          
+          What makes a good infographic-  Tessa Davis via twitter
+          https://twitter.com/tessardavis/status/1478272251116113922?lang=en-GB
+          
+          the highly successful JanuAIRWAY DAS compilation:
+          https://issuu.com/difficultairwaysociety/docs/_januairway_2022_the_compilation
+          
+          
+          ICU one Pagers:
+          https://onepagericu.com
+          
+          BMJ:
+          https://www.bmj.com/infographics
+          
+          Aims:
+          
+          We are looking to create snappy engaging single page summaries of topics and themes related to TIVA.
+          We have created 3 examples to demonstrate the concept
+          
+          All TIVA related topics are welcome.  The aim is to provide something for everyone with content being pitched at novices, intermediate and advanced users. 
+          
+          House Style:
+          
+          If using powerpoint select:
+          “Letter Paper” Landscape Width: 25.4 cm height 19.05 cm
+          Font Avenir 
+          Include the template footer (click to download template)
+          
+          Tips:
+          
+          We recommend using powerpoint for ubiquity but other programs dedicated to infographic design exist
+          The latest version of powerpoint has an extensive icon library: Insert >> Icons . .
+          A mix of text, icons and images/diagrams is recommended
+          Embed QR codes to sign post to useful resources or refs (https://www.qrcode-tiger.com/ or https://www.qr-code-generator.com)
         </div>
       </div>
 
