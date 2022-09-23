@@ -1,7 +1,7 @@
 
 # SIVA Infographic Competition Info
 
-* [Download](./docs/assets/examples/SIVA infographic template and style guide (landscape).pptx)
+* [Download a powerpoint template](./docs/assets/examples/SIVA infographic template and style guide (landscape).pptx)
 
 * [Submit](https://forms.gle/CwFKFnoAnvXGyb9y9) (upload to google form - requires a google account)
 

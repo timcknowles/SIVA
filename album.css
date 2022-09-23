@@ -1,5 +1,8 @@
+
+
 :root {
   --jumbotron-padding-y: 3rem;
+  --bs-blue: #4C86AC;
 }
 
 .jumbotron {
