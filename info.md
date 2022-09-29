@@ -1,5 +1,5 @@
 
-# SIVA Infographic Competition Info
+# Links
 
 * [Download a powerpoint template](./docs/assets/examples/SIVA infographic template and style guide (landscape).pptx)
 
