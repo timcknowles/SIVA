@@ -1,7 +1,7 @@
 
 # Links
 
-* [Download a powerpoint template](./docs/assets/examples/SIVA infographic template and style guide.pptx)
+* [Download a powerpoint template](./docs/assets/examples/SIVA infographic template and style guide Sept 23.pptx)
 
 * [Submit](https://forms.gle/CwFKFnoAnvXGyb9y9) (upload to google form -requires a google account)
 
