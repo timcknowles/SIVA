@@ -3,7 +3,7 @@
 
 * [Download a powerpoint template](./docs/assets/examples/SIVA infographic template and style guide Sept 23.pptx)
 
-* [Submit](https://forms.gle/ke4r1xiXt95VLwHFA) (upload to google form -requires a google account)
+* [Submit](https://forms.gle/skyUXaaEmruYhr7Q6) (upload to google form -requires a google account)
 
 ## What is an infographic?
 
